@@ -29,7 +29,6 @@ body {
 .profile {
     background-color: var(--dark-grey);
     padding: 3% 4% 2%;
-    margin-top: 3%;
     border-radius: 15px;
     display: flex;
     flex-direction: column;
@@ -90,7 +89,6 @@ body {
     .profile {
         width: 85%;
         padding: 8% 10% 5%;
-        margin-top: 20%;
     }
 
     .profile .links li {
