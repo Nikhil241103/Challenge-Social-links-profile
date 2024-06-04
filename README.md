@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://social-links-profile-762.netlify.app/)
+- Live Site URL: [Deployed here](https://social-links-profile-762.netlify.app/)
 
 ## My process
 
